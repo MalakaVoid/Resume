@@ -1,0 +1,8 @@
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\obj\Debug\AntsLife.csproj.AssemblyReference.cache
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\obj\Debug\AntsLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\obj\Debug\AntsLife.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\bin\Debug\AntsLife.exe.config
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\bin\Debug\AntsLife.exe
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\bin\Debug\AntsLife.pdb
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\obj\Debug\AntsLife.exe
+C:\Users\Данила\Documents\УЧЕБА\for git\Resume\AntsLife\AntsLife\obj\Debug\AntsLife.pdb

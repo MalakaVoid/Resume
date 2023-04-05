@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "799a3f98-bdb1-44ce-b915-6d4ceba646c6": {
+      "ProjectGuid": "799a3f98-bdb1-44ce-b915-6d4ceba646c6",
+      "DisplayName": "AntsLife",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
